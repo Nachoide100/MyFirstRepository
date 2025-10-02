@@ -14,9 +14,3 @@ The app allows users to create, edit, and delete tasks in a clean and minimal in
 - **HTML / CSS** (frontend)  
 - **SQLite3** (database)  
 
-## Project Structure  
-│── app.py # Main Flask application
-│── templates/ # HTML templates (Jinja2)
-│── static/ # CSS and static assets
-│── tasks.db # SQLite database file
-└── README.md # Project documentation
